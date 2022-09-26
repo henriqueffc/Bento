@@ -1,8 +1,10 @@
 <h1 align="center">Bento</h1>
 
 ![](assets/img/header.png)
-<a href="https://vanortton.github.io/Bento/" target="_blank">🔗 Visit Bento</a>
+<a href="https://henriqueffc.github.io/Bento/" target="_blank">🔗 Visit Bento</a>
 <br/>
+
+Fork do projeto <a href="https://github.com/Vanortton/Bento" target="_blank">🔗</a>
 
 ## 👇 Index
 - [👇 Index](#-index)
@@ -31,7 +33,7 @@
 Set it as Home Page:
    - Click the menu button. and select Options. Preferences.
    - Click the Home panel.
-   - Click the menu next to Homepage and new windows and choose to show custom URLs and add the link: https://vanortton.github.io/Bento/
+   - Click the menu next to Homepage and new windows and choose to show custom URLs and add the link: https://henriqueffc.github.io/Bento/
 
 ### ➕ As New Tab
 
