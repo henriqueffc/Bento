@@ -54,15 +54,15 @@ let CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Spotify',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Notes',
+			icon: 'sticky-note',
+			link: 'https://app.standardnotes.com/',
 		},
 		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 	],
 	secondButtonsContainer: [
@@ -113,8 +113,8 @@ let CONFIG = {
 					link: 'https://www.youtube.com/c/LofiGirl/featured',
 				},
 				{
-					name: 'Lofi Vibes',
-					link: 'https://www.youtube.com/channel/UCKVzPeUvluKR9EDTn8Q-bkw',
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
 				},
 				{
 					name: 'Chillofi radio',
@@ -131,12 +131,12 @@ let CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Diolinux',
-					link: 'https://plus.diolinux.com.br/',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'TikTok',
-					link: 'https://www.tiktok.com/',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 				{
 					name: 'Twitch',
