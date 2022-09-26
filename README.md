@@ -46,7 +46,7 @@ You can use different Add-ons/Extensions for it
 ### 🌄 Background Image
 
    - No canto superior esquerdo na página do Bento clique no botão com ícone de engrenagem.
-   - Na área das configurações de imagem de fundo clique em Sim e em Carregar Imagem.
+   - Na área das configurações de imagem de fundo clique em Sim e em Carregar Imagem (formato JPG).
    - No final da página clique no botão de salvar.
    - Agora é só voltar para a página inicial e lá vai estar a sua imagem.
 
