@@ -44,7 +44,7 @@ let CONFIG = {
 			id: '3',
 			name: 'WhatsApp',
 			icon: 'phone',
-			link: 'https://www.whatsapp.com',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
@@ -88,7 +88,7 @@ let CONFIG = {
 			id: '4',
 			name: 'Feedly',
 			icon: 'rss',
-			link: 'https://feedly.com/',
+			link: 'https://feedly.com/i/my',
 		},
 		{
 			id: '5',
@@ -144,7 +144,7 @@ let CONFIG = {
 				},
 				{
 					name: 'Discord',
-					link: 'https://discord.com',
+					link: 'https://discord.com/channels/@me',
 				},
 			],
 		},
@@ -164,11 +164,11 @@ let CONFIG = {
 				},
 				{
 					name: 'Feedly',
-					link: 'https://feedly.com/',
+					link: 'https://feedly.com/i/my',
 				},
 				{
 					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					link: 'https://getpocket.com/my-list',
 				},
 			],
 		},
