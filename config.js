@@ -30,9 +30,9 @@ let CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Instagram',
-			icon: 'instagram',
-			link: 'https://www.instagram.com/',
+			name: 'Arch Linux',
+			icon: 'terminal-square',
+			link: 'https://archlinux.org/',
 		},
 		{
 			id: '2',
@@ -48,9 +48,9 @@ let CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/'
+			name: 'Telegram',
+			icon: 'phone',
+			link: 'https://web.telegram.org/z/'
 		},
 		{
 			id: '5',
@@ -80,27 +80,27 @@ let CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Feedly',
+			icon: 'rss',
+			link: 'https://feedly.com/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Notes',
+			icon: 'sticky-note',
+			link: 'https://app.standardnotes.com/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Element',
+			icon: 'phone',
+			link: 'https://app.element.io',
 		},
 	],
 	firstlistsContainer: [
@@ -109,20 +109,20 @@ let CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi Girl',
+					link: 'https://www.youtube.com/c/LofiGirl/featured',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi Vibes',
+					link: 'https://www.youtube.com/channel/UCKVzPeUvluKR9EDTn8Q-bkw',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Chillofi radio',
+					link: 'https://chillofi-radio.dez.ovh/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'BBC Radio 1 Relax',
+					link: 'https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_relax',
 				},
 			],
 		},
@@ -131,27 +131,27 @@ let CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Diolinux',
+					link: 'https://plus.diolinux.com.br/',
 				},
 				{
 					name: 'TikTok',
 					link: 'https://www.tiktok.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'NetFlix',
-					link: 'https://www.netflix.com',
+					name: 'Discord',
+					link: 'https://discord.com',
 				},
 			],
 		},
 	],
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'newspaper',
 			id: '1',
 			links: [
 				{
@@ -159,12 +159,12 @@ let CONFIG = {
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Feedly',
+					link: 'https://feedly.com/',
 				},
 				{
 					name: 'Pocket',
@@ -173,24 +173,24 @@ let CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'code-2',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Arch Linux',
+					link: 'https://archlinux.org/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Grasshoper',
+					link: 'https://grasshopper.app',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Alura',
+					link: 'https://cursos.alura.com.br',
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/henriqueffc',
 				},
 			],
 		},
