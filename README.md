@@ -4,7 +4,7 @@
 <a href="https://henriqueffc.github.io/Bento/" target="_blank">🔗 Visit Bento</a>
 <br/>
 
-Fork do projeto <a href="https://github.com/Vanortton/Bento" target="_blank">🔗</a>
+<a href="https://github.com/Vanortton/Bento" target="_blank">🔗 Fork do projeto Vanortton/Bento</a>
 
 ## 👇 Index
 - [👇 Index](#-index)
