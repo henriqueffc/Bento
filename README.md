@@ -1,7 +1,7 @@
 <h1 align="center">Bento</h1>
 
 ![](assets/img/header.png)
-<a href="https://henriqueffc.github.io/Bento/" target="_blank">🔗 Visit Bento</a>
+<a href="https://henriqueffc.github.io/Bento/" target="_blank">🔗 Visite  henriqueffc/Bento</a>
 <br/>
 
 <a href="https://github.com/Vanortton/Bento" target="_blank">🔗 Fork do projeto Vanortton/Bento</a>
