@@ -74,15 +74,15 @@ let CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Agenda',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Spotify',
+			icon: 'music',
+			link: 'https://open.spotify.com/',
 		},
 		{
 			id: '4',
@@ -92,9 +92,9 @@ let CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Notes',
-			icon: 'sticky-note',
-			link: 'https://app.standardnotes.com/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '6',
@@ -114,7 +114,7 @@ let CONFIG = {
 				},
 				{
 					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					link: 'https://open.spotify.com/',
 				},
 				{
 					name: 'Chillofi radio',
@@ -155,12 +155,12 @@ let CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Reddit',
+					link: 'https://reddit.com/',
 				},
 				{
-					name: 'Youtube',
-					link: 'https://www.youtube.com/',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/',
 				},
 				{
 					name: 'Feedly',
