@@ -1,10 +1,10 @@
 <h1 align="center">Bento</h1>
 
 ![](assets/img/header.png)
-<a href="https://henriqueffc.github.io/Bento/" target="_blank">🔗 Visite  henriqueffc/Bento</a>
+<a href="https://henriqueffc.github.io/Bento/" target="_blank">🔗 Visit  henriqueffc/Bento</a>
 <br/>
 
-<a href="https://github.com/Vanortton/Bento" target="_blank">🔗 Fork do projeto Vanortton/Bento</a>
+<a href="https://github.com/Vanortton/Bento" target="_blank">🔗 Fork Vanortton/Bento</a>
 
 ## 👇 Index
 - [👇 Index](#-index)
@@ -16,7 +16,7 @@
   - [🌄 Background Image](#-background-image)
   - [🌑 Auto change theme](#-auto-change-theme)
   - [👋 General: Name, Weather Icons and Time Format](#-general-name-weather-icons-and-time-format)
-  - [📐 Layouts: Bento, Lists and Buttons](#-layouts-bento-lists-and-buttons)
+- [📐 Layouts: Bento, Lists and Buttons](#-layouts-bento-lists-and-buttons)
 
 ## ✨ Features
 
@@ -45,10 +45,12 @@ You can use different Add-ons/Extensions for it
 
 ### 🌄 Background Image
 
-   - No canto superior esquerdo na página do Bento clique no botão com ícone de engrenagem.
-   - Na área das configurações de imagem de fundo clique em Sim e em Carregar Imagem (formato JPG).
-   - No final da página clique no botão de salvar.
-   - Agora é só voltar para a página inicial e lá vai estar a sua imagem.
+   - In the upper left corner of Bento's page, click the gear icon button.
+   - In the background image settings option, click Yes and then select Upload Image (JPG format).
+   - At the bottom of the page click on the save button.
+   - Go back to the home page and the selected image is as the background image.
+
+![](assets/img/backgroundDark.png)
 
 ### 🌑 Auto change theme
 
