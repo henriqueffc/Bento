@@ -22,9 +22,9 @@ function displayClock() {
 	}
 
 	document.getElementById('hour').innerText = hh.toString().padStart(2, '0')
-	document.getElementById('separator').innerHTML = ' : '
+	document.getElementById('separator').innerHTML = ' h '
 	document.getElementById('minutes').innerText = CONFIG.twelveHourFormat ? (min + ampm).toString().padStart(2, '0')
-		: (min + ampm).toString().padStart(2, '0') + 'h'
+		: (min + ampm).toString().padStart(2, '0')
 
 	document.getElementById('month').innerText = mm
 	document.getElementById('day').innerText = dd.toString().padStart(2, '0')
